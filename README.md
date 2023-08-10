@@ -12,8 +12,17 @@ electronic circuit by using Wokwi. And coding by using Arduino IDE.
 
 "https://s-m.com.sa/s.html" / Stop.
 ## Simulation
+### Forward
 <img width="479" alt="iot-forward" src="https://github.com/Razanalshaeri/IOT-ESP32/assets/135154136/a9f38513-0bc3-4e4f-a039-770c58e33b5a">
+
+### Backward
 <img width="479" alt="iot-backward" src="https://github.com/Razanalshaeri/IOT-ESP32/assets/135154136/0c634203-5f5e-425a-9194-08544b6952ea">
+
+### Right
 <img width="479" alt="iot-right" src="https://github.com/Razanalshaeri/IOT-ESP32/assets/135154136/dbb06d15-96dd-44f7-a913-b672b1579bb5">
+
+### Left
 <img width="479" alt="iot-left" src="https://github.com/Razanalshaeri/IOT-ESP32/assets/135154136/51e6b8e3-74c8-4ac2-9727-c7908610961a">
+
+### Stop
 <img width="477" alt="iot-stop" src="https://github.com/Razanalshaeri/IOT-ESP32/assets/135154136/f669874d-30bd-4d15-8ccf-aa7691f648cb">
