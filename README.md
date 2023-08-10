@@ -12,8 +12,7 @@ electronic circuit by using Wokwi. And coding by using Arduino IDE.
 
 "https://s-m.com.sa/s.html" / Stop.
 ## code
-``
-#include <WiFi.h>
+`` #include <WiFi.h>
 #include <HTTPClient.h>
 
 const char* ssid = "Wokwi-GUEST";
@@ -38,9 +37,10 @@ void setup() {
   Serial.println(WiFi.localIP());
 
   Serial.print("Fetching " + url +"... ");
-  
+ 
 }
-
+``
+``
 void loop() {
   HTTPClient http;
   http.begin(url);
